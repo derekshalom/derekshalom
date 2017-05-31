@@ -1,0 +1,11 @@
+{
+  "name":"derekshalom",
+  "path": "/life/derekshalom",
+  "version": "0.0.1",
+  "definition": "I think therefore I am, and I chose the name derekshalom.",
+  "dependencies": {
+    "/io": ">=0.0.2",
+    "/io/life": ">=0.0.2"
+  }
+}
+
